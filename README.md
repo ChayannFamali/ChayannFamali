@@ -94,11 +94,6 @@ SAS | Tableau | SAP BW
 - **Medical Imaging**: Сегментация медицинских изображений
 - **Safety Systems**: Алгоритмы предупреждения аварийных ситуаций на основе видеоданных
 
-### 🎮 Reinforcement Learning проекты:
-- **[RL Algorithms Implementation](https://github.com/ChayannFamali/rl-algorithms)**: Собственные реализации классических RL алгоритмов
-- **[Game AI](https://github.com/ChayannFamali/game-ai-rl)**: RL агенты для различных игровых сред
-- **[Trading Bot](https://github.com/ChayannFamali/trading-rl)**: Алгоритмическая торговля с использованием обучения с подкреплением
-
 ## 📫 Контакты
 
 - **Telegram**: [@ChayannDMWork](https://t.me/ChayannDMWork)
