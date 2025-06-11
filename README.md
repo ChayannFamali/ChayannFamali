@@ -2,85 +2,129 @@
 
 **Data Engineer | ML/DL Enthusiast | Computer Vision Researcher**
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ChayannDMWork)
-[![Gmail](https://img.shields.io/badge/Email-dima.veselow2011@yandex.ru-red?style=flat-square&logo=gmail)](mailto:dima.veselow2011@yandex.ru)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/dmitriyveselov)
-[![GitHub](https://img.shields.io/badge/GitHub-ChayannFamali-181717?style=flat-square&logo=github)](https://github.com/ChayannFamali)
-
----
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/ChayannDMWork)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dima.veselow2011@yandex.ru)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/dmitriyveselov)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/ChayannFamali)
 
 - 📍 Москва | 🇷🇺 Россия
 - 💼 Senior Developer @ Гринатом | Junior CV Engineer @ Финансовый университет | ex-Goodt | ex-Citibank
 - 🏆 3+ года опыта в Data Engineering, ETL, ML/DL и Computer Vision
+- 📚 Магистр по Теоретической информатике и кибернетике (РУДН, 2023)
+- 📖 Автор научных публикаций в Scopus, ВАК и РИНЦ
 - 💬 Открыт к интересным проектам и сотрудничеству
-
----
 
 ## 🛠️ Технологический стек
 
-**Языки программирования:**  
+### Языки программирования:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**Технологии и инструменты:**  
-Apache NiFi | Airflow | Kafka | Docker | PostgreSQL | Dremio | Elasticsearch | MongoDB | Neo4j | Spring Boot | Liquibase  
-Tensorflow | PyTorch | OpenCV | Git | Linux
+### Технологии и инструменты:
+**Data Engineering & ETL:**
+Apache NiFi | Apache Airflow | Apache Kafka | Apache Druid | Dremio | Liquibase
 
----
+**Базы данных:**
+PostgreSQL | Elasticsearch | MongoDB | Neo4j | ClickHouse | Greenplum | ArenaDB
+
+**ML/DL & Computer Vision:**
+TensorFlow | PyTorch | OpenCV | Keras
+
+**DevOps & Tools:**
+Docker | Git | Linux | Spring Boot
+
+**Analytics & Visualization:**
+SAS | Tableau | SAP BW
 
 ## 🚀 Профессиональные интересы
 
-- Проектирование и оптимизация ETL/ELT пайплайнов
-- Архитектура и разработка DWH
-- Моделирование данных и интеграция ПО
-- Машинное обучение и глубокое обучение (опыт публикаций в Scopus, РИНЦ, ВАК)
-- Компьютерное зрение (реализация алгоритмов анализа изображений и циркадных ритмов)
-- Менторство, обучение и развитие молодых специалистов
-
----
+- 🔧 Проектирование и оптимизация ETL/ELT пайплайнов
+- 🏗️ Архитектура и разработка DWH
+- 🔄 Моделирование данных и интеграция ПО
+- 🤖 Машинное обучение и глубокое обучение
+- 👁️ Компьютерное зрение (медицинская диагностика, анализ циркадных ритмов)
+- 🧠 Обучение с подкреплением (Reinforcement Learning)
+- 👨‍🏫 Менторство, обучение и развитие молодых специалистов
 
 ## 🏆 Достижения
 
-- Оптимизация ETL-конвейера: ускорил загрузку 200 000 записей с 200+ до 100 секунд
-- Сократил нагрузку на БД на 20% за счет рефакторинга структур данных
-- Автор и соавтор научных публикаций ([Scopus](https://ieeexplore.ieee.org/document/10582393/authors#authors), [РИНЦ](https://elibrary.ru/author_items.asp?authorid=1094423))
-- Реализовал алгоритмы CV для анализа циркадных ритмов
+### Технические достижения:
+- ⚡ Оптимизация ETL-конвейера: ускорил загрузку 200 000 записей с 200+ до 100 секунд
+- 📉 Сократил нагрузку на БД на 20% за счет рефакторинга структур данных
+- 🔧 Разработал ETL-систему на Apache NiFi + Java + ArenaDB
+- 🌐 Создал API на Java (Spring Boot) для передачи данных в NiFi
 
----
+### Научные достижения:
+- 📄 **9 научных публикаций** (включая Scopus, ВАК, РИНЦ)
+- 🏥 Разработал алгоритмы CV для медицинской диагностики (обнаружение переломов, внутричерепных кровоизлияний)
+- 🕐 Реализовал алгоритмы анализа циркадных ритмов
+- 🧬 Исследования в области генеративных моделей для предсказания лекарственных соединений
+
+### Ключевые публикации:
+- [Detection of Intracranial Hemorrhage by AI Methods (Scopus)](https://ieeexplore.ieee.org/document/10582393/authors#authors)
+- [Профиль автора на eLibrary](https://elibrary.ru/author_items.asp?authorid=1094423)
 
 ## 📚 Сертификаты и обучение
 
-- [Karpov.courses: System Design, Deep Learning, Computer Vision](https://karpov.courses)
-- [Deep Learning School, МФТИ](https://mipt.ru)
-- [Docker с нуля](https://karpov.courses)
-- [Stepik: мои сертификаты](https://stepik.org/users/23936910/certificates)
-- [Kaggle профиль](https://www.kaggle.com/dmitriyveselov)
-
----
-
-## 📫 Контакты
-
-- Telegram: [@ChayannDMWork](https://t.me/ChayannDMWork)
-- Email: [dima.veselow2011@yandex.ru](mailto:dima.veselow2011@yandex.ru)
-- GitHub: [ChayannFamali](https://github.com/ChayannFamali)
-
----
+- 🎓 **Deep Learning School** (МФТИ, 2021-2022)
+- 📊 **System Design** (Karpov.Courses, 2025)
+- 🤖 **Deep Learning Engineer** (Karpov.Courses, 2025)
+- 👁️ **Computer Vision** (Karpov.Courses, 2025)
+- 🐳 **Docker Administration** (Karpov.Courses, 2024)
+- 📜 [Сертификаты Stepik](https://stepik.org/users/23936910/certificates)
+- 🏆 [Kaggle Profile](https://www.kaggle.com/dmitriyveselov)
 
 ## 💡 Примеры проектов
 
-- ETL-система на Apache NiFi + Java + ArenaDB
-- API на Java (Spring Boot) для передачи данных в NiFi
-- Алгоритмы анализа изображений на Python (Tensorflow, PyTorch, OpenCV)
+### 🔄 Data Engineering проекты:
+- **ETL-система**: Apache NiFi + Java + ArenaDB с оптимизированной загрузкой данных
+- **API Gateway**: Java (Spring Boot) для интеграции с NiFi
+- **Data Pipeline**: Airflow + Kafka для потоковой обработки данных
+
+### 🤖 Machine Learning проекты:
+- **[Reinforcement Learning Environment](https://github.com/ChayannFamali/reinforcement-learning-practice)**: Реализация различных алгоритмов RL (Q-Learning, DQN, Policy Gradient)
+- **[Medical Image Analysis](https://github.com/ChayannFamali/medical-image-processing)**: Алгоритмы обнаружения переломов и внутричерепных кровоизлияний
+- **[Circadian Rhythm Analysis](https://github.com/ChayannFamali/circadian-analysis)**: CV алгоритмы для анализа циркадных ритмов
+- **[Drug Discovery ML](https://github.com/ChayannFamali/drug-discovery-ml)**: Генеративные модели для предсказания лекарственных соединений
+
+### 🔬 Computer Vision проекты:
+- **Face Detection**: Гибридные детекторы лиц с использованием OpenCV и Deep Learning
+- **Medical Imaging**: Сегментация медицинских изображений
+- **Safety Systems**: Алгоритмы предупреждения аварийных ситуаций на основе видеоданных
+
+### 🎮 Reinforcement Learning проекты:
+- **[RL Algorithms Implementation](https://github.com/ChayannFamali/rl-algorithms)**: Собственные реализации классических RL алгоритмов
+- **[Game AI](https://github.com/ChayannFamali/game-ai-rl)**: RL агенты для различных игровых сред
+- **[Trading Bot](https://github.com/ChayannFamali/trading-rl)**: Алгоритмическая торговля с использованием обучения с подкреплением
+
+## 📫 Контакты
+
+- **Telegram**: [@ChayannDMWork](https://t.me/ChayannDMWork)
+- **Email**: [dima.veselow2011@yandx.ru](mailto:dima.veselow2011@yandex.ru)
+- **GitHub**: [ChayannFamali](https://github.com/ChayannFamali)
+- **Kaggle**: [dmitriyveselov](https://www.kaggle.com/dmitriyveselov)
 
 ---
 
-#### *Буду рад новым знакомствам, open-source и интересным задачам!*
+**💼 Опыт работы:**
+- **Senior Developer** @ Гринатом (2024-настоящее время)
+- **Junior CV Engineer** @ Финансовый университет (2023-настоящее время)
+- **Data Engineer** @ Goodt (2021-2024)
+- **Analytics Intern** @ Citibank (2021)
+
+**🎓 Образование:**
+- **Магистр** - Теоретическая информатика, кибернетика (РУДН, 2023)
+- **Бакалавр** - Прикладная математика и информатика (Финуниверситет, 2022)
 
 ---
 
+**Буду рад новым знакомствам, open-source проектам и интересным задачам! 🚀**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChayannFamali&layout=compact&hide=html,css)
-![Dmitry's github stats](https://github-readme-stats.vercel.app/api?username=ChayannFamali&show_icons=true)
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChayannFamali&layout=compact&hide=html,css)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChayannFamali&show_icons=true)
