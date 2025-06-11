@@ -33,8 +33,11 @@ PostgreSQL | Elasticsearch | MongoDB | Neo4j | ClickHouse | Greenplum | ArenaDB
 **ML/DL & Computer Vision:**
 TensorFlow | PyTorch | OpenCV | Keras
 
+**Backend:**
+Django | FastApi | Flask | Spring Boot
+
 **DevOps & Tools:**
-Docker | Git | Linux | Spring Boot
+Docker | Git | Linux
 
 **Analytics & Visualization:**
 SAS | Tableau | SAP BW
