@@ -85,10 +85,9 @@ SAS | Tableau | SAP BW
 - **Data Pipeline**: Airflow + Kafka для потоковой обработки данных
 
 ### 🤖 Machine Learning проекты:
-- **[Reinforcement Learning Environment](https://github.com/ChayannFamali/reinforcement-learning-practice)**: Реализация различных алгоритмов RL (Q-Learning, DQN, Policy Gradient)
-- **[Medical Image Analysis](https://github.com/ChayannFamali/medical-image-processing)**: Алгоритмы обнаружения переломов и внутричерепных кровоизлияний
-- **[Circadian Rhythm Analysis](https://github.com/ChayannFamali/circadian-analysis)**: CV алгоритмы для анализа циркадных ритмов
-- **[Drug Discovery ML](https://github.com/ChayannFamali/drug-discovery-ml)**: Генеративные модели для предсказания лекарственных соединений
+- **[Reinforcement Learning Environment](https://github.com/ChayannFamali/Reinforcement-learning-in-Trading)**: Реализация различных алгоритмов RL (Q-Learning, DQN, Policy Gradient)
+- **[Circadian Rhythm Analysis](https://brightmagazine.ru/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82-%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8/?ysclid=mbskoehr7z895827715)**: CV алгоритмы для анализа циркадных ритмов
+- **[Drug Discovery ML](https://github.com/ChayannFamali/Application-of-generative-models-for-prediction-of-drug-molecular-compounds)**: Генеративные модели для предсказания лекарственных соединений
 
 ### 🔬 Computer Vision проекты:
 - **Face Detection**: Гибридные детекторы лиц с использованием OpenCV и Deep Learning
