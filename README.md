@@ -99,7 +99,7 @@ SAS | Tableau | SAP BW
 ## 📫 Контакты
 
 - **Telegram**: [@ChayannDMWork](https://t.me/ChayannDMWork)
-- **Email**: [dima.veselow2011@yandx.ru](mailto:dima.veselow2011@yandex.ru)
+- **Email**: [dima.veselow2011@yandx.ru](mailto:dima.veselow2011@gmail.com)
 - **GitHub**: [ChayannFamali](https://github.com/ChayannFamali)
 - **Kaggle**: [dmitriyveselov](https://www.kaggle.com/dmitriyveselov)
 
