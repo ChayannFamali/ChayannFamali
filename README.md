@@ -7,7 +7,7 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/dmitriyveselov)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/ChayannFamali)
 
-## Профессиональная информация
+## О себе
 
 **Местоположение:** Москва, Россия  
 **Текущая позиция:** Senior Developer @ Гринатом | Junior CV Engineer @ Финансовый университет  
@@ -38,7 +38,7 @@
 - Docker, Git, Linux
 - SAS, Tableau, SAP BW
 
-## Профессиональные достижения
+## Достижения
 
 ### Технические результаты
 - Оптимизация ETL-конвейера: сокращение времени загрузки 200 000 записей с 200+ до 100 секунд
@@ -48,11 +48,11 @@
 ### Научная деятельность
 - 9 научных публикаций в рецензируемых журналах (Scopus, ВАК, РИНЦ)
 - Разработка алгоритмов компьютерного зрения для медицинской диагностики
-- Исследования в области генеративных моделей для фармацевтической индустрии
+- Исследования в области генеративных моделей для поиска лекарственных средств (Научная статья является победителем Международного салона образования)
 - [Detection of Intracranial Hemorrhage by AI Methods (Scopus)](https://ieeexplore.ieee.org/document/10582393/authors#authors)
 - [Профиль автора на eLibrary](https://elibrary.ru/author_items.asp?authorid=1094423)
 
-## Ключевые проекты
+## Проекты
 
 ### Data Engineering
 - **ETL-система**: Разработка высокопроизводительной системы на Apache NiFi + Java + ArenaDB
