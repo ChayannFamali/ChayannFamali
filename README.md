@@ -31,14 +31,16 @@
 ## 🛠️ Технический стек
 
 **Языки**
-Python · Java · C++ · Go · SQL
+Python · Java · C++ · Go · Scala · SQL
 
 
 | Категория | Технологии |
 |---|---|
 | **Data Engineering / ETL** | Apache NiFi · Airflow · Kafka · Druid · Dremio · Liquibase |
 | **Базы данных** | PostgreSQL · ClickHouse · Greenplum · ArenaDB · Elasticsearch · MongoDB · Neo4j |
-| **ML / DL / CV** | PyTorch · TensorFlow · Keras · OpenCV |
+| **Vector / RAG** | LangChain · LlamaIndex · FAISS · Chroma · Qdrant · pgvector |
+| **LLM / NLP** | Hugging Face Transformers · sentence-transformers · LangGraph · Ollama · vLLM |
+| **ML / DL / CV** | PyTorch · TensorFlow · Keras · scikit-learn · OpenCV |
 | **Backend** | FastAPI · Django · Flask · Spring Boot |
 | **DevOps / BI** | Docker · Git · Linux · Tableau · SAS · SAP BW |
 
@@ -107,9 +109,20 @@ Python · Java · C++ · Go · SQL
 ## 🚀 Проекты
 
 ### Data Engineering
-- **ETL-платформа** — высокопроизводительная система на Apache NiFi + Java + ArenaDB.
-- **API Gateway** — интеграционный слой на Spring Boot для управления потоками NiFi.
-- **Streaming Data Pipeline** — потоковая обработка данных на Airflow + Kafka.
+
+- **ETL-платформа** — высоконагруженная система обработки данных на `Apache NiFi · Java · ArenaDB`.
+  Обрабатывает >50 млн записей в сутки, семантика at-least-once с идемпотентной записью.
+  Оптимизировал узкие места (индексация, запросы, трансформации на Groovy) — ускорил обработку батча в ~5 раз.
+
+- **API Gateway** — интеграционный слой на `Spring Boot` поверх потоков NiFi.
+  Унифицировал доступ к данным для внутренних команд и сократил дублирование точечных интеграций.
+
+- **Streaming Data Pipeline** — near-real-time обработка данных на `Kafka · Airflow`.
+  Перевёл часть пакетных пайплайнов на стриминг, сократив задержку доставки данных аналитикам с часов до минут.
+
+- **Data Quality & Monitoring** — слой контроля качества и мониторинга пайплайнов.
+  Валидация на входе, метрики и алерты — снизил число инцидентов с «битыми» данными на ~35%.
+
 
 ### Machine Learning
 - **[Reinforcement Learning in Trading](https://github.com/ChayannFamali/Reinforcement-learning-in-Trading)** — RL-алгоритмы для финансовых рынков.
