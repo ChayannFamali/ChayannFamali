@@ -165,8 +165,8 @@ Python · Java · C++ · Go · SQL
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChayannFamali&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChayannFamali&layout=compact&hide=html,css&theme=tokyonight" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChayannFamali&theme=tokyonight" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChayannFamali&theme=tokyonight" height="170">
 </p>
 
 <p align="center">
