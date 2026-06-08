@@ -166,7 +166,7 @@ Python · Java · C++ · Go · SQL
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChayannFamali&theme=tokyonight" height="170">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChayannFamali&theme=tokyonight" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChayannFamali&theme=tokyonight" height="170">
 </p>
 
 <p align="center">
