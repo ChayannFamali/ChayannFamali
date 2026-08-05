@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/ChayannDMWork"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/ChDMWork"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white"></a>
   <a href="mailto:dima.veselow2011@yandex.ru"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=maildotru&logoColor=white"></a>
   <a href="https://github.com/ChayannFamali"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"></a>
-  <a href="https://huggingface.co/ChayannFamali"><img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"></a>
+  <a href="https://huggingface.co/Famali"><img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"></a>
   <a href="https://www.kaggle.com/dmitriyveselov"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"></a>
   <a href="https://elibrary.ru/author_items.asp?authorid=1094423"><img src="https://img.shields.io/badge/-eLibrary-1f6feb?style=flat&logo=googlescholar&logoColor=white"></a>
 </p>
