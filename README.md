@@ -88,7 +88,7 @@
 - 🎯 **Устранил Python-switching** (модель генерирует Python вместо ABAP): 17,8% → **0%** на валидации — чисто inference-time фиксом через retrieval, **без переобучения**.
 - 🧪 **Честный eval:** 325 held-out промптов, отсутствие утечек подтверждено сверкой content-hash; отдельно зафиксированы trade-off'ы (просадка syntax_valid у 14B+RAG, регресс Java при ABAP-boosted обучении).
 - 💻 **Всё обучение — на двух consumer-GPU** (RTX 4000 Ada 20 ГБ + RTX 5070 12 ГБ) за счёт NF4 + double quantization, без кластера.
-- 🤗 **Модели опубликованы:** [huggingface.co/ChayannFamali](https://huggingface.co/ChayannFamali)
+- 🤗 **Модели опубликованы:** [huggingface.co/ChayannFamali](https://huggingface.co/Famali)
 
 ### 🔬 Наука и исследования
 
