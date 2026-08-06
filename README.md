@@ -182,8 +182,8 @@
 
 | Модель | Описание |
 |---|---|
-| [qwen14b-abap-sql-lora](https://huggingface.co/ChayannFamali/qwen14b-abap-sql-lora) | QLoRA-адаптер для `Qwen2.5-Coder-14B-Instruct`, ABAP/SQL, 50k сэмплов |
-| [qwen7b-abap-sql-lora](https://huggingface.co/ChayannFamali/qwen7b-abap-sql-lora) | QLoRA-адаптер для `Qwen2.5-Coder-7B-Instruct`, ABAP/SQL, 100k сэмплов (12,9% ABAP) |
+| [qwen14b-abap-sql-lora](https://huggingface.co/Famali/qwen14b-abap-sql-lora) | QLoRA-адаптер для `Qwen2.5-Coder-14B-Instruct`, ABAP/SQL, 50k сэмплов |
+| [qwen7b-abap-sql-lora](https://huggingface.co/Famali/qwen7b-abap-sql-lora) | QLoRA-адаптер для `Qwen2.5-Coder-7B-Instruct`, ABAP/SQL, 100k сэмплов (12,9% ABAP) |
 
 ---
 
@@ -225,7 +225,7 @@
 - **Email:** [dima.veselow2011@yandex.ru](mailto:dima.veselow2011@yandex.ru)
 - **GitHub:** [ChayannFamali](https://github.com/ChayannFamali)
 - **GitLab:** [ChayannFamali](https://gitlab.com/ChayannFamali)
-- **HuggingFace:** [ChayannFamali](https://huggingface.co/Famali)
+- **HuggingFace:** [Famali](https://huggingface.co/Famali)
 - **Kaggle:** [dmitriyveselov](https://www.kaggle.com/dmitriyveselov)
 - **eLibrary:** [authorid 1094423](https://elibrary.ru/author_items.asp?authorid=1094423)
 
